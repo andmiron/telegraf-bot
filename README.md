@@ -57,6 +57,6 @@ Project stack:
 
 ### Production
 
-The bot is up and running on aws-lambda with serverless.
+The bot is up and running on Render.com
 
 [Link](https://t.me/and_miron_bot) and [QRCode](image.png)
